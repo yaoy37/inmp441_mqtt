@@ -4,8 +4,8 @@
 #include <driver/i2s.h>
 
 // WiFi配置
-const char* ssid = "CMCC-CCEh";
-const char* password = "xpft2675";
+const char* ssid = "CMCC-";
+const char* password = "xpft";
 
 // MQTT配置
 const char* mqtt_server = "192.168.10.101";
